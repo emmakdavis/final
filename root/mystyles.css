@@ -1,0 +1,44 @@
+body{
+    background-image: url('https://images3.alphacoders.com/220/220467.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tableaustyle{
+    display: block;
+    margin: auto;
+}
+li{
+    background-color: cornsilk;
+    text-decoration-color: black;
+}
+ol{
+    background-color: cornsilk;
+}
+h1{
+    background-color: rgb(126, 162, 202);
+}
+.img-center{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+.vid-center{
+    display: block;
+    margin: auto; 
+    width: 75%;
+}
+.tableauPlaceholder{
+    display: block;
+    margin: auto; 
+}
+.footer{
+   position:relative;
+   bottom: -50px; 
+   font-size: medium;
+}
+.pro-page{
+    position:relative;
+    bottom: 0px;
+    font-size: medium;
+    float: right;
+}
